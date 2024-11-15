@@ -9,6 +9,7 @@ Vivado 2023.1 or equivalent Verilog simulation tool.
 Computer system with a suitable operating system.
 
 **Procedure:**
+
 Launch Vivado 2023.1:
 
 Open Vivado and create a new project.
@@ -63,6 +64,7 @@ endmodule
 **Output:**
 
 ![Screenshot 2024-10-17 144923](https://github.com/user-attachments/assets/b44760dc-ef56-4c21-a366-20dffead0331)
+
 
 **Testbench for 4KB ROM Memory:**
 
